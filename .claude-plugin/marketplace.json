@@ -1,0 +1,15 @@
+{
+  "name": "atilab",
+  "description": "Plugins published by ATI Lab",
+  "owner": {
+    "name": "ATI Lab",
+    "url": "https://www.atilab.io"
+  },
+  "plugins": [
+    {
+      "name": "atilab-setup-audit",
+      "source": "./",
+      "description": "A free, guided audit you run inside your own Claude: it reviews how your company has Claude set up, fixes what it can with you step by step, and records progress on a private page."
+    }
+  ]
+}

@@ -43,7 +43,13 @@ Ask: "Run the setup audit." Claude starts with the ten-minute check, shows you t
 
 **In the Claude app or Cowork.** Add the plugin from the plugins page (**Customize > Plugins**, named **Plugins** in the newer layout). To record progress on a private page, connect the bundled connector from the plugin's **Connectors** tab. This is optional.
 
-**In Claude Code.** From the folder that contains this one:
+**In Claude Code, from this repository.**
+
+```text
+/plugin install atilab-setup-audit --marketplace ATI-Lab-Repositories/atilab-setup-audit
+```
+
+**In Claude Code, from a local copy.** From the folder that contains this one:
 
 ```bash
 claude --plugin-dir ./atilab-setup-audit
