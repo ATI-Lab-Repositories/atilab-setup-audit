@@ -1,6 +1,6 @@
 {
   "name": "atilab-setup-audit",
-  "displayName": "Setup Audit for Claude",
+  "displayName": "ATI Lab Playbook: Setup Audit",
   "version": "0.2.0",
   "description": "A free, guided audit you run inside your own Claude: it reviews how your company has Claude set up, fixes what it can with you step by step, and records progress on a private page.",
   "author": {
