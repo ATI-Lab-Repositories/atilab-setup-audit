@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "atilab": {
+      "type": "http",
+      "url": "https://www.atilab.io/mcp"
+    }
+  }
+}
