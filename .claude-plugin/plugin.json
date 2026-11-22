@@ -18,5 +18,6 @@
     "automation",
     "brand-voice"
   ],
-  "repository": "https://github.com/ATI-Lab-Repositories/atilab-setup-audit"
+  "repository": "https://github.com/ATI-Lab-Repositories/atilab-setup-audit",
+  "license": "MIT"
 }

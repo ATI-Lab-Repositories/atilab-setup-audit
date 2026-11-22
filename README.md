@@ -100,4 +100,4 @@ Questions and problems: open an issue at https://github.com/ATI-Lab-Repositories
 
 ## Licence
 
-To be confirmed before publication. Until a licence file is added, all rights are reserved.
+MIT. See the `LICENSE` file.
